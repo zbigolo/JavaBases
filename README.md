@@ -3,3 +3,5 @@
 # zmiana na repo zdalnym
 
 # zmian na repo lokalnym
+
+# branch KOPIA
